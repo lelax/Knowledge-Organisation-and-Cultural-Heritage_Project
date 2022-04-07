@@ -1,6 +1,6 @@
 # Knowledge-Organisation-and-Cultural-Heritage_Project
 
-## Topic - Rodin's Gates of Hell
+## Topic:Rodin's Gates of Hell — A Linked Open Data(LOD) Project
 ### Why The gates of Hell(French: La Porte de l'Enfer)
 
 The Gates of Hell occupied a unique place in Rodin’s oeuvre. Working feverishly on this project for several years, he created over 200 figures and groups that formed a breeding ground for ideas which he drew on for the rest of his working life. Having hoped to exhibit his Gates at the 1889 Exposition Universelle, but probably too busy to finish them, the sculptor stopped working on them circa 1890.
