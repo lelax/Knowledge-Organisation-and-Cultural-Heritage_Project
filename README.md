@@ -47,7 +47,7 @@ We have chosen to describe this sculpture kept him engaged for 37 years, making 
 - 1880(year)`The year in which the work was comissioned by the french governament for the museum of decorative arts`
 - 1926-28(year)`First bronze cast of the work — finished after Rodin's death, Not until 1917 did Léonce Bénédite, the Musée Rodin’s first curator, manage to persuade the sculptor to allow him to reconstruct his masterpiece in order to have it cast in bronze`
 
-#### Work-flow for creating this LOD project.
+### Work-flow for creating this LOD project.
 
 > **Study of Domain**
 - Finding suitable Items
@@ -65,7 +65,7 @@ We have chosen to describe this sculpture kept him engaged for 37 years, making 
 - RDF production
 - RDF visualisation
 
-#### Resource Bibliography
+### Resource Bibliography
 
 https://en.wikipedia.org/wiki/The_Gates_of_Hell(wikipedia article about the sculpture)
 
