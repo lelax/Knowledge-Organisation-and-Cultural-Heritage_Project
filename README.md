@@ -46,6 +46,7 @@ We have chosen to describe this sculpture kept him engaged for 37 years, making 
 - 17 November 1917 (aged 77)`Date of Rodin's Death`
 - 1880(year)`The year in which the work was comissioned by the french governament for the museum of decorative arts`
 - 1926-28(year)`First bronze cast of the work — finished after Rodin's death, Not until 1917 did Léonce Bénédite, the Musée Rodin’s first curator, manage to persuade the sculptor to allow him to reconstruct his masterpiece in order to have it cast in bronze`
+- Rodin's portraits (Stefano)
 
 ### Work-flow for creating this LOD project.
 
@@ -90,6 +91,8 @@ https://collection.nmwa.go.jp/en/S.1959-0046.html(third maquette)
 https://www.auguste-rodin.org/ugolino-surrounded-by-his-three-children/(painting/drawing of the ugoliono and his children)
 
 https://www-jstor-org.ezproxy.unibo.it/stable/3048395?seq=4(a paper on Gates of hell as a self-portraiture)
+
+https://www.getty.edu/art/collection/object/106FAJ#full-artwork-details Rodin's portrait
 
 **Note for self":**
 
