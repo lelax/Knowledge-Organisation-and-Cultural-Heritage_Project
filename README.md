@@ -66,7 +66,7 @@ We have chosen to describe this sculpture kept him engaged for 37 years, making 
 - RDF production
 - RDF visualisation
 
-![Alt text here](Concept map.dio.drawio.svg)
+![Alt text here](Conceptual_Map.drawio.svg)
 ### Resource Bibliography
 
 https://en.wikipedia.org/wiki/The_Gates_of_Hell(wikipedia article about the sculpture)
